@@ -88,7 +88,7 @@ public class PackageUtils {
         KNOWN_GOOGLE_PACKAGES.put("com.fitbit.FitbitMobile", "29a4514c3b90b90cb6badc79614262195c6a5747");
         KNOWN_GOOGLE_PACKAGES.put("com.google.android.apps.magazines", "bd32424203e0fb25f36b57e5aa356f9bdd1da998");
         KNOWN_GOOGLE_PACKAGES.put("com.google.android.apps.photos", "24bb24c05e47e0aefa68a58a766179d9b613a600");
-        KNOWN_GOOGLE_PACKAGES.put("com.google.android.apps.maps", "38918a453d07199354f8b19af05ec6562ced5788");
+        KNOWN_GOOGLE_PACKAGES.put("com.google.android.apps.maps", "38918A453D07199354F8B19AF05EC6562CED5788");
     }
 
     @Deprecated
